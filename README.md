@@ -9,7 +9,7 @@ Logistic Regression Model for Minimizing churn rate through analysis of financia
 
 4. Feature Scaling
 
-5. Fitting Model to the Training Set
+5. Logistic-Regression-Model: Fitting Model to the Training Set
 
 6. Applied k-Fold Cross Validation
 
